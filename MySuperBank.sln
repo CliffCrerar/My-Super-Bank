@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySuperBank", "MySuperBank\MySuperBank.csproj", "{C384A77F-73BE-4EEA-BFDE-794B7C7BEC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C384A77F-73BE-4EEA-BFDE-794B7C7BEC58}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C384A77F-73BE-4EEA-BFDE-794B7C7BEC58}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C384A77F-73BE-4EEA-BFDE-794B7C7BEC58}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C384A77F-73BE-4EEA-BFDE-794B7C7BEC58}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

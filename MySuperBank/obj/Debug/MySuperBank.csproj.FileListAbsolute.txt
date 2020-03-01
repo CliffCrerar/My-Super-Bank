@@ -1,0 +1,5 @@
+/Users/cliff/Projects/MySuperBank/MySuperBank/obj/Debug/MySuperBank.csprojAssemblyReference.cache
+/Users/cliff/Projects/MySuperBank/MySuperBank/bin/Debug/MySuperBank.exe
+/Users/cliff/Projects/MySuperBank/MySuperBank/bin/Debug/MySuperBank.pdb
+/Users/cliff/Projects/MySuperBank/MySuperBank/obj/Debug/MySuperBank.exe
+/Users/cliff/Projects/MySuperBank/MySuperBank/obj/Debug/MySuperBank.pdb
